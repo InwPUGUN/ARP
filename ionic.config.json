@@ -1,0 +1,7 @@
+{
+  "name": "ARP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
